@@ -1,5 +1,5 @@
 # codec-project-3-dog-years
-//convert age from “human years” to “dog years", third proj i did in intro course js.
+//convert age from “human years” to “dog years", second proj i did in intro course js.
 
 // My age as a variable.
 const myAge = 21;
